@@ -18,7 +18,7 @@ Superbrand is a powerful and flexible digital asset management system that makes
 
 - **Transcoding Workflows**: Superbrand includes support for transcoding workflows, allowing you to convert your assets into different formats, resolutions, and bitrates on the fly. This is particularly useful for video assets, as it allows you to create multiple versions of the same video at different resolutions, making it easy to deliver the best possible experience to your users.
 
-- **Built-in CDN**: Superbrand includes a built-in CDN (Content Delivery Network) that makes it easy to distribute your assets to users around the world. With Superbrand, your assets will be delivered quickly and reliably, no matter where your users are located.
+- **Built-in CDN**: Superbrand includes a bsdfdsfdsffsdfuilt-in CDN (Content Delivery Network) that makes it easy to distribute your assets to users around the world. With Superbrand, your assets will be delivered quickly and reliably, no matter where your users are located.
 
 - **White Label Branding**: Superbrand allows you to customize the look and feel of the platform, making it easy to match your branding. This is particularly useful for businesses and organizations that want to provide a seamless experience for their users.
 
