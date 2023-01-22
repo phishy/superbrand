@@ -14,7 +14,7 @@ Superbrand is a powerful and flexible digital asset management system that makes
 - Node.js
 
 ### Features
-- **Resumable Asset Uploading**: Superbrand allows you to upload assets in a resumable way, meaning that if the upload is interrupted for any reason, it can be resumed from where it left off. This ensures that your assets are uploaded quickly and reliably, even in low-bandwidth environments.
+- **Resumable Asset Uploading**: Superbrand allows you to upload assets in a resumable way, meaning that if the upload is interrupted for any reason, it can be resumed from where it left off. This ensures that your assets are uplosdfdsfdsfdsfaded quickly and reliably, even in low-bandwidth environments.
 
 - **Transcoding Workflows**: Superbrand includes support for transcoding workflows, allowing you to convert your assets into different formats, resolutions, and bitrates on the fly. This is particularly useful for video assets, as it allows you to create multiple versions of the same video at different resolutions, making it easy to deliver the best possible experience to your users.
 
